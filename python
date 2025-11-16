@@ -7,21 +7,4 @@ def factorial(n):
         result *= i
     return result
 
-def main():
-    try:
-        # Take user input
-        num = int(input("Enter a non-negative integer: "))
-        
-        # Validate input
-        if num < 0:
-            print("Error: Factorial is not defined for negative numbers.")
-            return
-        
-        # Calculate and display result
-        print(f"Factorial of {num} is {factorial(num)}")
-    
-    except ValueError:
-        print("Invalid input. Please enter an integer.")
 
-if __name__ == "__main__":
-    main()
