@@ -29,3 +29,4 @@ public class SumCalculator {
     }
 }
 im learning the crone systax with poll scm
+im shedulng the 11:03 time, now it will shedule automatically on 11:03
