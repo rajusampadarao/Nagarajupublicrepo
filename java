@@ -28,4 +28,4 @@ public class SumCalculator {
         }
     }
 }
-code added again automated a webhook
+im learning the crone systax with poll scm
